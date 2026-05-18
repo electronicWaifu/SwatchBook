@@ -5,4 +5,4 @@ enhance precision and uniformity in graphics processing workflows. a tool for bo
 
 feature: organize swatches into custom albums and display as a full color collection board.
 
-database: hex format color code repository
+Dataset1: hex format color code database
