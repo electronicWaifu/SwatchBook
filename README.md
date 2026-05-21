@@ -17,7 +17,7 @@ feature: option to log search and use history
 feature: export as text file or image file
 
 
-database: 16,777,216 hexadecimal values [24-bit color six-digit form]
+database: 16,777,216 hexadecimal values [24-bit or TrueColor six-digit form]
 
 database: 4,096 colors [12-bit color shorthand form]. This limitation is sufficient for many text-based documents. (Web colors - Wikipedia)
 
