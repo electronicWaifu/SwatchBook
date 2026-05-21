@@ -5,6 +5,6 @@ enhance precision and uniformity in graphics processing workflows. organize and 
 
 feature: toggle between text and thumbnail display
 
-feature: organize swatches into albums and display as a collection board.
+feature: organize swatches into albums and collection boards
 
 database: 16,777,216 hexadecimal values
