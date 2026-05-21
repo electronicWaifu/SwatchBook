@@ -5,6 +5,4 @@ enhance precision and uniformity in graphics processing workflows. a tool for bo
 
 feature: organize swatches into custom albums and display as a full color collection board.
 
-core: hex format database
-
-values: 16,777,216 colors (htmlcolorcodes.com)
+core: 16,777,216 hexadecimal values
