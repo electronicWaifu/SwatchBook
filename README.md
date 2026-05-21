@@ -5,4 +5,4 @@ enhance precision and uniformity in graphics processing workflows. a tool for bo
 
 feature: organize swatches into custom albums and display as a full color collection board.
 
-core: 16,777,216 hexadecimal values
+database: 16,777,216 hexadecimal values
