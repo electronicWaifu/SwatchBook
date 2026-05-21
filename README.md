@@ -12,6 +12,8 @@ feature: organize swatches into albums and collection boards
 
 feature: color blindness filter | black and white filter
 
+feature: option to log search and use history
+
 feature: export as text file or image file
 
 
