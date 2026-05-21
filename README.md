@@ -9,4 +9,6 @@ feature: organize swatches into albums and collection boards
 
 feature: color blindness filter | black and white filter
 
+feature: export as text file or image file
+
 database: 16,777,216 hexadecimal values
