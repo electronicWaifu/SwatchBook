@@ -1,7 +1,7 @@
 # SwatchBook
 hexcode based digital color management tool for Android.
 
-enhance precision and uniformity in graphics processing workflows. a tool for book matching color in hexadecimal format [i.e. #000000]. pick colors from image files, save swatches to a viewable gallery, and transfer data between aplications.
+enhance precision and uniformity in graphics processing workflows. a tool for organizing and book matching color in hexadecimal format [i.e. #000000]. pick colors from image files, save swatches to a viewable gallery, and transfer data between aplications.
 
 feature: toggle between text and thumbnail display
 
