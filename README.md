@@ -6,6 +6,8 @@ enhance precision and uniformity in graphics processing workflows. organize and 
 
 feature: toggle between text and thumbnail display
 
+feature: default and named color lists
+
 feature: organize swatches into albums and collection boards
 
 feature: color blindness filter | black and white filter
