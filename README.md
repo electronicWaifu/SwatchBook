@@ -22,4 +22,6 @@ database: 16,777,216 hexadecimal values [24-bit or TrueColor six-digit form]
 database: 4,096 colors [12-bit color shorthand form]. This limitation is sufficient for many text-based documents. (Web colors - Wikipedia)
 
 
-backward compatibility and legacy support: impossible in legacy HTML documents that do not use CSS (Web colors - Wikipedia)
+backward compatibility: impossible in legacy HTML documents that do not use CSS (Web colors - Wikipedia)
+
+legacy support: 16-bit and 8-bit color displays
