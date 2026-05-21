@@ -7,6 +7,6 @@ feature: toggle between text and thumbnail display
 
 feature: organize swatches into albums and collection boards
 
-feature: color blindness filter
+feature: color blindness filter | black and white filter
 
 database: 16,777,216 hexadecimal values
