@@ -11,4 +11,6 @@ feature: color blindness filter | black and white filter
 
 feature: export as text file or image file
 
+feature: backward compatibility and legacy support
+
 database: 16,777,216 hexadecimal values
